@@ -1,0 +1,70 @@
+COURSE TITLE
+Course Outline Builder
+
+COURSE OBJECTIVES
+Discover the Course Outline Builder
+Explore the benefits
+
+DURATION
+10 Minutes
+
+
+SECTION TITLE
+Discover The Course Outline Builder
+
+SECTION BODY
+Course Outline Builder is a spreadsheet and python script that builds course outlines.
+
+BULLET POINTS
+Subject Matter Experts structure course items such as Titles, Bullet Points, and more
+Choose course outline items from picklists to add content to outline
+Run Course Outline Builder (Python Script) to build Course Outline document
+
+ILLUSTRATION
+Add screen captures: Google Spreadsheet, Python Course Outline Builder Script, & Course Outline document
+
+VOCABULARY
+Course Outline Builder is a simple, yet powerful, tool to develop course content requirements using a Google Spreadsheet.
+
+TIP
+Identify and add course outline items at a granular level to facilitate rapid course development.
+
+
+SECTION TITLE
+Benefits of Course Outline Builder
+
+SECTION BODY
+Use Google Spreadsheets to collaborate with SMEs & stakeholders. Build a Course Outline document that frames the course.
+
+BULLET POINTS
+Visualize and structure a course
+Identify course requirements and gaps
+Course Outline Builder creates the course_outline_builder.txt
+
+VOCABULARY
+The Course Outline document is a document that frames a new course for development. Copy and paste the Course Outline document into a Google Document to continue course development.
+
+TIP
+Add and adapt Course Outline Item picklists to suit your company needs.
+
+
+SECTION TITLE
+How to use Course Outline Builder
+
+SECTION BODY
+
+
+STEPS
+Copy 'Course Outline Builder Template' Google Spreadsheet
+Rename copy to rename to course_outline_builder
+Add 'Course Outline Items' from picklists to create course outline.
+Download the Course Outline in CSV format
+Navigate: File > Download > Comma-separated values (.csv, current sheet)
+Place course_outline_builder file in the Python Course Outline Builder script folder
+Run Course Outline Builder Python script
+Locate the course_outline_builder.txt in the script folder
+Copy and paste the contents of course_outline_builder.txt a Google Document
+Edit the Course Outline in the Google Document to create a learning module
+
+TIP
+View 'How To Use Course Outline Builder' video to learn more.
