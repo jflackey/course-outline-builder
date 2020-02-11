@@ -1,2 +1,2 @@
 # course-outline-builder
-Build course outline from .csv file
+Build course outlines from .csv file
